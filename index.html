@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Platform Breakdown Viewer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Hitman Speedrun.com Platform Breakdown</h1>
+
+  <div class="input-container">
+    <div class="input-group">
+      <h1>Select Board:</h1>
+      <select id="boardSelect">
+        <option value="CombinedBoards.json">All Boards</option>
+        <option value="MainBoard.json">Main Board</option>
+        <option value="CategoryExtensions.json">Category Extensions</option>
+        <option value="ElusiveTargets.json">Elusive Targets</option>
+        <option value="Escalations.json">Escalations</option>
+        <option value="Freelancer.json">Freelancer</option>
+      </select>
+    </div>
+
+    <div class="input-group">
+      <h1>Enter Run Amount: <span class="tooltip" title="Enter the number of most recent runs you want to analyze (from newest to oldest).">(?)</span></h1>
+      <input type="number" id="amount" placeholder="placeholder">
+      <button id="analyzeBtn">Analyze</button>
+    </div>
+ 
+  </div>
+
+  <div class="summary" id="summaryInfo"></div>
+
+  <div class="results">
+    <h2>PC vs Console Breakdown</h2>
+    <div id="pcConsoleBreakdown"></div>
+
+    <h2>All Platforms Breakdown</h2>
+    <div id="allPlatformsBreakdown"></div>
+
+    <button id="toggleInfoBtn">Show Extra Info</button>
+
+    <div id="projectInfo">
+      <p>
+        Made by @Rekt05 on Discord.<br><br>
+        This project scrapes all of the Hitman speedrun.com boards weekly on Sunday at Midnight UTC+2 and stores the data into JSON files that you can find on GitHub.<br><br>
+        This site reads the JSON files and displays the platform distribution based on a few options.<br>
+        I made this because there has been some discussion about downpatching and its effects on console players, but I thought it could be interesting to some.
+      </p>
+    </div>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
