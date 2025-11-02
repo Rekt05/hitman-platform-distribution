@@ -25872,12 +25872,6 @@
     "submitted": "26/05/2022"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/zx7lj6gy",
-    "video": "https://youtu.be/U7nJaEJYWrI",
-    "platform": "PS4",
-    "submitted": "26/05/2022"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/y60ng2jy",
     "video": "https://youtu.be/kQMPHGAyx1I",
     "platform": "Unknown",
@@ -33583,12 +33577,6 @@
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/zg2j30dy",
-    "video": "https://youtu.be/wA-EM0ifooM",
-    "platform": "PC",
-    "submitted": "10/03/2023"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/zpgknegz",
     "video": "https://youtu.be/wA-EM0ifooM",
     "platform": "PC",
     "submitted": "10/03/2023"
@@ -43168,5 +43156,23 @@
     "video": "https://youtu.be/R5Hd4Gw6Z7k",
     "platform": "PC",
     "submitted": "25/10/2025"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/y68r211z",
+    "video": "https://www.youtube.com/watch?v=1UAynKRxRsM&t=1s",
+    "platform": "PC",
+    "submitted": "28/10/2025"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/z17ow3jz",
+    "video": "https://youtu.be/b3GVvsRFCLE",
+    "platform": "PC",
+    "submitted": "31/10/2025"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/mkr8j43z",
+    "video": "https://youtu.be/b3GVvsRFCLE",
+    "platform": "PC",
+    "submitted": "31/10/2025"
   }
 ]
