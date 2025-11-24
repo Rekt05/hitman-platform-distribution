@@ -11,7 +11,13 @@ permissions:
 
 jobs:
   run-script:
+    #bad code to retry on api call failures
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        retry: [1, 2, 3]
 
     steps:
       - name: Checkout repository
@@ -25,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt || echo "No requirements.txt, skipping"
+          pip install -r requirements.txt
 
       - name: Run Python script
         run: python ScrapeSRCRuns.py
@@ -35,7 +41,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add *.json
-          git commit -m "Auto-update JSON files via GitHub Actions" || echo "No changes to commit"
+          git commit -m "Auto update JSON files" || echo "No changes"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Rekt05/hitman-platform-distribution.git HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
