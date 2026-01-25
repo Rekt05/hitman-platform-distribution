@@ -1368,12 +1368,6 @@
     "submitted": "27/01/2022"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/ylen1g2z",
-    "video": "https://youtu.be/TRUoQmauzsQ",
-    "platform": "Xbox One",
-    "submitted": "29/01/2022"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/ydwjkdqm",
     "video": "https://youtu.be/x4ehrjuJn9Y",
     "platform": "PC",
@@ -2310,12 +2304,6 @@
     "submitted": "24/10/2022"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/zpd5rnxz",
-    "video": "https://www.youtube.com/watch?v=vZT8g4xb-OU",
-    "platform": "PC",
-    "submitted": "25/10/2022"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/yv052g6z",
     "video": "https://youtu.be/CxwYvDA447I",
     "platform": "PC",
@@ -2956,12 +2944,6 @@
     "video": "https://www.youtube.com/watch?v=0ZQHjuRb1WI",
     "platform": "PC",
     "submitted": "03/10/2023"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/y6q5xojz",
-    "video": "https://www.youtube.com/watch?v=l0rGVdouHqU",
-    "platform": "PC",
-    "submitted": "04/10/2023"
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/z1koplry",
@@ -3624,18 +3606,6 @@
     "submitted": "15/09/2025"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/y68p3k6z",
-    "video": "https://www.youtube.com/watch?v=8ulokavUBls",
-    "platform": "PC",
-    "submitted": "04/10/2025"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/zg97wq0m",
-    "video": "https://www.youtube.com/watch?v=KN6R5mQAS40",
-    "platform": "PC",
-    "submitted": "05/10/2025"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/zn540j9z",
     "video": "https://www.youtube.com/watch?v=-895tOpnVLE",
     "platform": "PC",
@@ -3672,26 +3642,8 @@
     "submitted": "07/10/2025"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/y68po5pz",
-    "video": "https://www.youtube.com/watch?v=9dIthU-rrUw",
-    "platform": "PC",
-    "submitted": "07/10/2025"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/m7vq16wm",
     "video": "https://www.bilibili.com/video/BV1eW4AzmEtH/",
-    "platform": "PC",
-    "submitted": "11/10/2025"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/ydo6q2wz",
-    "video": "https://youtu.be/gsQ3QA4ZfXI?t=55",
-    "platform": "PC",
-    "submitted": "11/10/2025"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/yl5040xz",
-    "video": "https://youtu.be/fQuG2wRldaY?t=55",
     "platform": "PC",
     "submitted": "11/10/2025"
   },
@@ -3718,12 +3670,6 @@
     "video": "https://www.youtube.com/watch?v=V4D5vVn-dD8",
     "platform": "PC",
     "submitted": "25/10/2025"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/y2rd08wm",
-    "video": "https://youtu.be/9UEWC3m3D8A?t=94",
-    "platform": "PC",
-    "submitted": "27/10/2025"
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/mep6p00y",
@@ -3910,5 +3856,29 @@
     "video": "https://www.youtube.com/watch?v=PyBP_orwcvc",
     "platform": "PS5",
     "submitted": "17/01/2026"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/mkrwnxvz",
+    "video": "https://youtu.be/NJL_jyfSl_k?si=FP7NyMRcKXh4AW2N",
+    "platform": "PS4",
+    "submitted": "20/01/2026"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/mep2q1qy",
+    "video": "https://youtu.be/c_uDRNpdfs4?si=0mG9G_9LiG6I3U3k",
+    "platform": "PS4",
+    "submitted": "20/01/2026"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/m32232gy",
+    "video": "https://youtu.be/2pl37_4oE7E",
+    "platform": "PC",
+    "submitted": "23/01/2026"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/y688080z",
+    "video": "https://youtu.be/2pl37_4oE7E?t=66",
+    "platform": "PC",
+    "submitted": "23/01/2026"
   }
 ]
