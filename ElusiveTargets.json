@@ -1765,13 +1765,13 @@
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/mk53j65m",
-    "video": "no video",
+    "video": "https://www.bilibili.com/video/BV1SU4y177d8/?spm_id_from=333.788.videopod.episodes&bvid=BV1SU4y177d8&p=4",
     "platform": "PC",
     "submitted": "17/08/2021"
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/zxo2e18z",
-    "video": "no video",
+    "video": "https://www.bilibili.com/video/BV1SU4y177d8/?spm_id_from=333.788.videopod.episodes&bvid=BV1SU4y177d8&p=4",
     "platform": "PC",
     "submitted": "17/08/2021"
   },
@@ -4074,12 +4074,6 @@
     "submitted": "24/01/2022"
   },
   {
-    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/yvq07dom",
-    "video": "https://www.bilibili.com/video/BV1c34y1q7tN?p=1",
-    "platform": "PC",
-    "submitted": "26/01/2022"
-  },
-  {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/yle1j8nz",
     "video": "https://www.bilibili.com/video/BV1aq4y1C72x?spm_id_from=333.999.0.0",
     "platform": "PC",
@@ -4558,12 +4552,6 @@
     "video": "https://youtu.be/6SzLiarXyHo",
     "platform": "PC",
     "submitted": "11/03/2022"
-  },
-  {
-    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/mr6w1o4m",
-    "video": "https://b23.tv/pz28Gi7",
-    "platform": "PC",
-    "submitted": "12/03/2022"
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/m364ow4m",
@@ -6372,12 +6360,6 @@
     "submitted": "26/10/2022"
   },
   {
-    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/z5x6jxdy",
-    "video": "https://b23.tv/HiwDfWp",
-    "platform": "PC",
-    "submitted": "26/10/2022"
-  },
-  {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/m3x25x6m",
     "video": "https://www.youtube.com/watch?v=vm2IvGVHnfI",
     "platform": "PC",
@@ -7056,12 +7038,6 @@
     "submitted": "21/08/2023"
   },
   {
-    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/zx3rjl5z",
-    "video": "https://www.youtube.com/watch?v=Ys0NBi2EWMc",
-    "platform": "PC",
-    "submitted": "23/08/2023"
-  },
-  {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/z5p4lvnm",
     "video": "https://www.youtube.com/watch?v=Bm-Y29zp3vg",
     "platform": "PC",
@@ -7102,18 +7078,6 @@
     "video": "https://youtu.be/yo4ycNBM_4g",
     "platform": "PC",
     "submitted": "01/09/2023"
-  },
-  {
-    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/yvvgddxy",
-    "video": "https://youtu.be/_2xeHlD5SZo?si=_oHz9K__u1Nqn10m",
-    "platform": "PC",
-    "submitted": "17/09/2023"
-  },
-  {
-    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/z1k3wn7y",
-    "video": "https://youtu.be/_2xeHlD5SZo?si=_oHz9K__u1Nqn10m",
-    "platform": "PC",
-    "submitted": "17/09/2023"
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/ywnpqr9y",
@@ -11914,5 +11878,11 @@
     "video": "https://youtu.be/fTOYpcQJZqA",
     "platform": "PC",
     "submitted": "25/09/2026"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/yoge4n5m",
+    "video": "https://www.youtube.com/watch?v=OOwpCwN-vTo",
+    "platform": "PS5",
+    "submitted": "04/10/2026"
   }
 ]
